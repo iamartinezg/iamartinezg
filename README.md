@@ -1,5 +1,11 @@
-# About-me-
-I am a Systems Engineer from the Pontifical Javeriana University. During the last years I have focused on the academic and work environment, developing my skills and my knowledge in different branches of engineering. I consider myself a passionate and motivated person to achieve what is proposed, I am mostly self-taught, curious, restless about new technologies, and the tools available today. I am not satisfied with the basics, I always seek to exceed expectations and give my best in any aspect. I am quite a social person, it is easy for me to work in a team, always taking the initiative and taking all opinions and ideas into account.
-I have extensive knowledge in software development in different programming languages, using the best programming tools and practices. I have extensive knowledge in project development and software architecture, leaning more than anything towards agile methodologies.
-I have general knowledge of administration and network topologies, in relational databases, information systems, artificial intelligence and development of mobile and web applications.
-I want to establish myself, consolidate myself and be part of a company that allows me to put my knowledge into practice and that gives me the opportunity to achieve my goals and grow professionally, personally and intellectually.
+# 👨‍💻 Sobre mí
+¡Hola! Soy un apasionado Ingeniero de Sistemas de la Pontificia Universidad Javeriana, movido por la curiosidad y el interés por las nuevas tecnologías. 🚀 Soy autodidacta, siempre con ganas de aprender, y me encanta superar expectativas.
+
+## 💡 Lo que hago
+Me especializo en desarrollo de software, con experiencia en múltiples lenguajes de programación, aplicando buenas prácticas y metodologías ágiles. También tengo una sólida base en arquitectura de software, administración de redes, bases de datos, inteligencia artificial y desarrollo de aplicaciones web/móviles.
+
+## 🤝 Cómo trabajo
+Me destaco por trabajar en equipo, valorando siempre la colaboración y una comunicación clara. Disfruto asumiendo la iniciativa y aportando ideas innovadoras en cada proyecto.
+
+## 🌟 Mi objetivo
+Busco crecer y contribuir en una empresa innovadora, donde pueda aplicar mis conocimientos, alcanzar mis metas y seguir desarrollándome tanto profesional como personalmente.
