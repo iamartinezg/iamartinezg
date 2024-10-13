@@ -1,4 +1,11 @@
-I am a Systems Engineer from the Pontifical Javeriana University. During the last years I have focused on the academic and work environment, developing my skills and my knowledge in different branches of engineering. I consider myself a passionate and motivated person to achieve what is proposed, I am mostly self-taught, curious, restless about new technologies, and the tools available today. I am not satisfied with the basics, I always seek to exceed expectations and give my best in any aspect. I am quite a social person, it is easy for me to work in a team, always taking the initiative and taking all opinions and ideas into account.
-I have extensive knowledge in software development in different programming languages, using the best programming tools and practices. I have extensive knowledge in project development and software architecture, leaning more than anything towards agile methodologies.
-I have general knowledge of administration and network topologies, in relational databases, information systems, artificial intelligence and development of mobile and web applications.
-I want to establish myself, consolidate myself and be part of a company that allows me to put my knowledge into practice and that gives me the opportunity to achieve my goals and grow professionally, personally and intellectually.
+# 👨‍💻 About Me
+Hi! I'm a passionate Systems Engineer from the Pontifical Javeriana University, driven by curiosity and a love for new technologies. 🚀 I'm self-taught, always eager to learn, and I thrive on exceeding expectations.
+
+## 💡 What I Do
+I specialize in software development, with experience in multiple programming languages, using best practices and agile methodologies. I also have a solid background in software architecture, network administration, databases, AI, and web/mobile app development.
+
+## 🤝 How I Work
+I'm a natural team player who values collaboration and open communication. I enjoy taking initiative and always seek to bring fresh ideas to the table.
+
+## 🌟 My Goal
+I'm looking to grow and contribute to a forward-thinking company, where I can apply my skills, reach my goals, and continue evolving both professionally and personally.
